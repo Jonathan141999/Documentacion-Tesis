@@ -14,8 +14,10 @@ https://www.youtube.com/watch?v=u002dIOfPdA
 ![image](https://user-images.githubusercontent.com/66144899/131281177-d4e7623f-5f71-4a56-85b8-f224d34c884b.png)
 ![image](https://user-images.githubusercontent.com/66144899/131281236-63fc551a-c96a-4170-8621-a0e0678d26d5.png)
 ### Correo de Confirmación
+#### El usuario estudiante o empresa recibira la confirmación de su cuenta
 ![image](https://user-images.githubusercontent.com/66144899/131281274-5055d0f0-7af6-4ed7-9f99-98f703ca00d4.png)
 ### Registro de Usuarios (Estudiantes y Empresas)
+#### Los dos tipos de usuarios deben llenar todos los campos para poder utilizar la aplicación móvil
 ![image](https://user-images.githubusercontent.com/66144899/131281334-a49158a3-ad2c-46ee-9877-147fb4823234.png)
 ![image](https://user-images.githubusercontent.com/66144899/131281380-38c0ce0d-569d-45ae-bdde-0c949580ad7e.png)
 
@@ -31,10 +33,12 @@ https://www.youtube.com/watch?v=u002dIOfPdA
 
 ### Módulo de Publicación (Empresa)
 ### Registro de Publicación y Validacion de datos
+#### El usuario empresa debera llenar todos los campos para poder publicar en la aplicación móvil
 ![image](https://user-images.githubusercontent.com/66144899/131282224-b7451399-87b8-4e66-9d05-0320ff7fa5d5.png)
 ![image](https://user-images.githubusercontent.com/66144899/131282246-57cdad12-631e-492f-bffe-fe3ced394596.png)
 
 ### Actualizacion de una publicación
+#### El usuario empresa podra actualizar publicaciones ya realizadas en la aplicación móvil
 ![image](https://user-images.githubusercontent.com/66144899/131282303-bef2fcd2-cae6-4fb0-97f0-8166d7cb99ad.png)
 ### Visualización de una publicación
 ![image](https://user-images.githubusercontent.com/66144899/131282346-a54a3f30-3af4-49f3-9590-128142f2ddf3.png)
@@ -45,12 +49,15 @@ https://www.youtube.com/watch?v=u002dIOfPdA
 
 ### Módulo de Publicación (Estudiante)
 ### Visualizar publicaciones de empresas
+#### El usuario estudiante podrá visualizar publicaciones de prácticas preprofesionales de diferentes empresas
 ![image](https://user-images.githubusercontent.com/66144899/131282514-15439370-4efe-48ba-b9aa-5fb836c04b10.png)
 
 ### Detalle de una publicación
+#### Se podrá visualizar a detalle la práctica preprofesional
 ![image](https://user-images.githubusercontent.com/66144899/131282544-5b25fc87-1e1c-4310-97bc-83cc7b82f3a7.png)
 
 ### Registro de Postulación y validación de los campos
+#### El usuario estudiante podra postular a las diferentes publicaciones
 ![image](https://user-images.githubusercontent.com/66144899/131283539-3049a68a-9ca7-45a3-bd8d-f6f95b37dcd0.png)
 ![image](https://user-images.githubusercontent.com/66144899/131283568-ad542b14-c08c-4055-b327-91e82eed3d19.png)
 
@@ -62,10 +69,13 @@ https://www.youtube.com/watch?v=u002dIOfPdA
 
 ### Módulo de Postulación (Empresas)
 ### Recibir Postulaciones 
+#### El usuario empresa podra recibir varias postulaciones de diferentes usuarios
 ![image](https://user-images.githubusercontent.com/66144899/131283693-3e48f8ea-3e12-48a2-be0c-7621d881fd6a.png)
 
 ### Datos del postulado
+#### El usuario empresa podra visualizar a detalle la postulación para poder aceptar o rechazar 
 ![image](https://user-images.githubusercontent.com/66144899/131283757-00798b90-cab2-4d1f-b488-4abf04edc3a2.png)
 
 ### Aceptar o rechazar una postulación
+#### El usuario empresa podra aceptar o rechazar a un estudiante
 ![image](https://user-images.githubusercontent.com/66144899/131283835-a1dbae83-66f0-47eb-ba01-cb0ff2d33685.png)
