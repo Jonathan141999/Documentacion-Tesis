@@ -15,17 +15,14 @@ https://www.youtube.com/watch?v=u002dIOfPdA
 ### Correo de Confirmación
 ![image](https://user-images.githubusercontent.com/66144899/131281274-5055d0f0-7af6-4ed7-9f99-98f703ca00d4.png)
 ### Registro de Usuarios (Estudiantes y Empresas)
-<p> El usuario debe llenar todos los campos para poder registrarse en la aplicación móvil </p>
 ![image](https://user-images.githubusercontent.com/66144899/131281334-a49158a3-ad2c-46ee-9877-147fb4823234.png)
 ![image](https://user-images.githubusercontent.com/66144899/131281380-38c0ce0d-569d-45ae-bdde-0c949580ad7e.png)
 
 ### Menú Estudiante y Empresa
-<p>En las capturas de pantalla se muestran los diferentes módulos que podra utilizar el usuarios autenticado</p>
 ![image](https://user-images.githubusercontent.com/66144899/131281628-e033c424-b0d7-42f2-84f1-db213eaa0de6.png)
 ![image](https://user-images.githubusercontent.com/66144899/131281658-76f4862e-eee1-47d6-9430-1179520e0d7f.png)
 
 ### Pagina de Actualizacion de datos
-<p> se muestra las Pagina de Actualización se debe llenar todos los campos para poder actualizar el perfil
 ![image](https://user-images.githubusercontent.com/66144899/131281885-350ee366-d607-466b-8288-75dea7e45fae.png)
 ### Perfil Empresa y Estudiante
 ![image](https://user-images.githubusercontent.com/66144899/131282155-654f8642-17db-4aa9-a883-b006cdbda2f4.png)
@@ -47,7 +44,6 @@ https://www.youtube.com/watch?v=u002dIOfPdA
 
 ### Módulo de Publicación (Estudiante)
 ### Visualizar publicaciones de empresas
- <p> En esta pagina se podran visualizar todas las publicaciones que han realizado las diferentes empresas</p>
 ![image](https://user-images.githubusercontent.com/66144899/131282514-15439370-4efe-48ba-b9aa-5fb836c04b10.png)
 
 ### Detalle de una publicación
@@ -71,5 +67,4 @@ https://www.youtube.com/watch?v=u002dIOfPdA
 ![image](https://user-images.githubusercontent.com/66144899/131283757-00798b90-cab2-4d1f-b488-4abf04edc3a2.png)
 
 ### Aceptar o rechazar una postulación
-<p> El usuario empresa podra aceptar o rechazar al estudiante dependiendo si cumple con las espeficicaciones de la empresa </p>
 ![image](https://user-images.githubusercontent.com/66144899/131283835-a1dbae83-66f0-47eb-ba01-cb0ff2d33685.png)
