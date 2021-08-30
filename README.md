@@ -48,4 +48,23 @@
 ### Detalle de una publicación
 ![image](https://user-images.githubusercontent.com/66144899/131282544-5b25fc87-1e1c-4310-97bc-83cc7b82f3a7.png)
 
+### Registro de Postulación y validación de los campos
+![image](https://user-images.githubusercontent.com/66144899/131283539-3049a68a-9ca7-45a3-bd8d-f6f95b37dcd0.png)
+![image](https://user-images.githubusercontent.com/66144899/131283568-ad542b14-c08c-4055-b327-91e82eed3d19.png)
 
+### Postulaciones Realizadas por el estudiante
+![image](https://user-images.githubusercontent.com/66144899/131283605-0cb36505-7e53-4899-9413-0825f3d4eb3c.png)
+
+### Detalle de postulación
+![image](https://user-images.githubusercontent.com/66144899/131283637-9a2066c4-515d-4bbc-89ca-c511e70f6357.png)
+
+## Módulo de Postulación Empresas
+
+### Recibir Postulaciones 
+![image](https://user-images.githubusercontent.com/66144899/131283693-3e48f8ea-3e12-48a2-be0c-7621d881fd6a.png)
+
+### Datos del postulado
+![image](https://user-images.githubusercontent.com/66144899/131283757-00798b90-cab2-4d1f-b488-4abf04edc3a2.png)
+
+### Aceptar o rechazar una postulación
+![image](https://user-images.githubusercontent.com/66144899/131283835-a1dbae83-66f0-47eb-ba01-cb0ff2d33685.png)
