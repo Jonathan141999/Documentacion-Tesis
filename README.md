@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=u002dIOfPdA
 
 ### Módulo de Autenticación
 ### Login
+#### El usuario estudiante y empresa debera ingresar bien sus credenciales para poder utilizar la aplicación móvil
 ![image](https://user-images.githubusercontent.com/66144899/131281177-d4e7623f-5f71-4a56-85b8-f224d34c884b.png)
 ![image](https://user-images.githubusercontent.com/66144899/131281236-63fc551a-c96a-4170-8621-a0e0678d26d5.png)
 ### Correo de Confirmación
